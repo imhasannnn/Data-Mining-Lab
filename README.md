@@ -1,0 +1,14 @@
+# Specialized Search Engine with Inverted Index
+
+A custom-built search engine from scratch using Python, implementing an Inverted Index and Vector Space Model (TF-IDF) for dynamic information retrieval.
+
+## Features
+- Full Text Preprocessing pipeline (Tokenization, Lowercasing, Punctuation Removal, Stop-words Filtering, and Stemming).
+- Core Inverted Index mapping terms to specific document IDs and frequencies.
+- Multi-word query routing supporting both Boolean AND / OR logic operations.
+- Relevance ranking utilizing TF-IDF calculations.
+
+## Directory Structure
+```text
+├── main.py              
+└── README.md            
