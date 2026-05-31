@@ -9,6 +9,6 @@ A custom-built search engine from scratch using Python, implementing an Inverted
 - Relevance ranking utilizing TF-IDF calculations.
 
 ## Directory Structure
-```text
-├── main.py              # Core engine script run in Google Colab
+├── ID_1006.ipynb        # Core recommendation pipeline run in Google Colab
+├── Report.pdf           # Project documentation report file
 └── README.md            # Project documentation summary
